@@ -1,0 +1,3 @@
+Ivanenko 1 IT-11 4,5,3,4
+Petrenko 2 IT-12 5,5,5,5
+Sydorenko 3 IT-13 2,3,2,3
